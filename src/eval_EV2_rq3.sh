@@ -27,7 +27,7 @@ python eval.py \
 	  --model_version ${model} \
           --task_name ${task_name} \
 	  --desc ${desc} \
-          --data_dir ${prefix}data/EV2/I_CEC.jsonl \
+          --data_dir I_CEC.jsonl \
           --cluster_dir ${prefix}data/EV2/clustering.json \
           --output_dir ${prefix}experiments/EV2/${desc}/ \
 	  --num_gpus 0 \
@@ -48,7 +48,7 @@ python eval.py \
 	  --model_version ${model} \
           --task_name ${task_name} \
 	  --desc ${desc} \
-          --data_dir ${prefix}data/EV2/I_CRR.jsonl \
+          --data_dir I_CRR.jsonl \
           --cluster_dir ${prefix}data/EV2/clustering.json \
           --output_dir ${prefix}experiments/EV2/${desc}/ \
 	  --num_gpus 0 \
