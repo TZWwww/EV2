@@ -13,11 +13,11 @@ RQ4: src/eval_memory.sh
 We will keep running on this code and add more instructions.
 
 Please cite:
-‘’‘
+···
 @article{tao2024comprehensive,
   title={A Comprehensive Evaluation on Event Reasoning of Large Language Models},
   author={Tao, Zhengwei and Jin, Zhi and Zhang, Yifan and Chen, Xiancai and Bai, Xiaoying and Fang, Yue and Zhao, Haiyan and Li, Jia and Tao, Chongyang},
   journal={arXiv preprint arXiv:2404.17513},
   year={2024}
 }
-’‘’
+···
