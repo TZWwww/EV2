@@ -16,10 +16,13 @@ We will keep running on this code and add more instructions.
 
 Please cite:
 ```
-@article{tao2024comprehensive,
-  title={A Comprehensive Evaluation on Event Reasoning of Large Language Models},
-  author={Tao, Zhengwei and Jin, Zhi and Zhang, Yifan and Chen, Xiancai and Bai, Xiaoying and Fang, Yue and Zhao, Haiyan and Li, Jia and Tao, Chongyang},
-  journal={arXiv preprint arXiv:2404.17513},
-  year={2024}
+@misc{tao2024comprehensiveevaluationeventreasoning,
+      title={A Comprehensive Evaluation on Event Reasoning of Large Language Models}, 
+      author={Zhengwei Tao and Zhi Jin and Yifan Zhang and Xiancai Chen and Haiyan Zhao and Jia Li and Bing Liang and Chongyang Tao and Qun Liu and Kam-Fai Wong},
+      year={2024},
+      eprint={2404.17513},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2404.17513}, 
 }
 ```
